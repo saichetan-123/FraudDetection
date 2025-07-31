@@ -1,5 +1,5 @@
 # FraudDetection
-
+[![CI Status](https://github.com/saichetan-123/FraudDetection/actions/workflows/python-ci.yml/badge.svg)](https://github.com/saichetan-123/FraudDetection/actions/workflows/python-ci.yml)
 This project detects fraudulent credit card transactions using machine learning.
 
 ## 📂 Files
